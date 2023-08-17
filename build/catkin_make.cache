@@ -1,0 +1,2 @@
+A-LOAM-devel
+-DCATKIN_DEVEL_PREFIX=/home/emma/catkin_aloam/devel -DCMAKE_INSTALL_PREFIX=/home/emma/catkin_aloam/install -G Unix Makefiles
